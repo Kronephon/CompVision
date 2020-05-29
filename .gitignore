@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/opencv
+/CameraModule/opencv_world430d.dll
+/CameraModule/opencv_world430.dll
+/OpenCVDefault/opencv_world430d.dll
+/OpenCVDefault/opencv_world430.dll
